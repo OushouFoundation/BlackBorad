@@ -8,5 +8,10 @@
 
 ### Staff
  考古队队长 @bkmashiro
+ 
+ 考古队contributor: @scchan
+ 
  总览视图 contributor: @gggreen
+ 
  监工 @Teacher_Qiu
+ 
