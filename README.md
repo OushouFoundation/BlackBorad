@@ -11,7 +11,11 @@
  
  考古队contributor: @scchan
  
- 总览视图 contributor: @gggreen
+ 总览视图contributor: @gggreen
  
  监工 @Teacher_Qiu
  
+### log
+
+2022-1-8 考古工作暂时告一段落。
+
