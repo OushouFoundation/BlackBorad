@@ -9,9 +9,9 @@
 ### Staff
  考古队队长 @bkmashiro
  
- 考古队contributor: @scchan
+ 王将主页 contributor: @scchan
  
- 总览视图contributor: @gggreen
+ 总览视图 & 东方红近照 contributor: @gggreen
  
  监工 @Teacher_Qiu
  
